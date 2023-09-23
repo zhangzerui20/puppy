@@ -2,10 +2,10 @@ package puppy
 
 import "fmt"
 
-func bark() {
+func Bark() {
 	fmt.Println("Woof!")
 }
 
-func barks() {
+func Barks() {
 	fmt.Println("Woof! Woof! Woof!")
 }
